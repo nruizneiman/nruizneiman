@@ -9,9 +9,8 @@ I'm a passionate web developer with experience in the .NET ecosystem and a keen 
 ## Experience and Skills 💼
 
 - **Programming Languages:** C#, JavaScript, Python
-- **Technologies and Frameworks:** ASP.NET, React
+- **Technologies and Frameworks:** .NET
 - **Databases:** SQL Server, MySQL, SQLite, MongoDB, CosmosDB
-- **AI Development:** Machine Learning, Natural Language Processing
 
 ## Featured Projects 🚀
 
@@ -19,7 +18,7 @@ I'm a passionate web developer with experience in the .NET ecosystem and a keen 
 
 - **[sql-server-docker](https://github.com/nruizneiman/sql-server-docker):** This repo is a demo of how to create a database with objects and seed data into a SQL Server database by using Docker. It also shows with some pipelines/workflow/action files how to integrate it with CI/CD so the process can be automated to either a public or private container registry.
 
-- **[Project Name](project link):** Brief project description and your notable contributions.
+- **[AutoJiggler]([project link](https://github.com/nruizneiman/AutoJiggler):** A lightweight PowerShell-based mouse jiggler to keep your computer active and prevent status changes in applications like Microsoft Teams, Slack, and other productivity tools.
 
 ## Contact 📞
 
